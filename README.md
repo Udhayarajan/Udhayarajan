@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Udhayarajan
 - 18 y/o
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on Android App Developement with Android Studio
+- 🌱 I’m currently learning Kotlin Android after getting knowledge from Java Android
+- 💞️ I’m looking to collaborate on Android Native App Developement both Kotlin and Java
 - 📫 How to reach me : mudhayarajan.2013@gmail.com
 
 <!---
